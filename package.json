@@ -1,0 +1,13 @@
+{
+  "name": "tambalin_websocket",
+  "version": "1.0.0",
+  "description": "Websocket for Tambalin update location",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^4.5.0",
+    "socket.io-client": "^4.5.0"
+  }
+}
